@@ -12,5 +12,5 @@
 ## 第二章 进程管理
 
 * [2.1 进程与线程](di-er-zhang-jin-cheng-guan-li/2.1-jin-cheng-yu-xian-cheng.md)
-* [2.2 处理机调度](di-er-zhang-jin-cheng-guan-li/2.2-chu-li-ji-tiao-du.md)
+* [2.2 处理机调度（一）](di-er-zhang-jin-cheng-guan-li/2.2-chu-li-ji-tiao-du.md)
 
