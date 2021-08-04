@@ -15,4 +15,5 @@
 * [2.2 处理机调度](di-er-zhang-jin-cheng-guan-li/2.2-chu-li-ji-tiao-du.md)
 * [2.3 进程同步](di-er-zhang-jin-cheng-guan-li/2.3-jin-cheng-tong-bu.md)
 * [2.3 进程管理（经典进程同步问题）](di-er-zhang-jin-cheng-guan-li/2.3-jin-cheng-guan-li-jing-dian-jin-cheng-tong-bu-wen-ti.md)
+* [2.4 死锁](di-er-zhang-jin-cheng-guan-li/2.4-si-suo.md)
 
