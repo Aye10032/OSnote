@@ -17,3 +17,7 @@
 * [2.3 进程管理（经典进程同步问题）](di-er-zhang-jin-cheng-guan-li/2.3-jin-cheng-guan-li-jing-dian-jin-cheng-tong-bu-wen-ti.md)
 * [2.4 死锁](di-er-zhang-jin-cheng-guan-li/2.4-si-suo.md)
 
+## 第三章 内存管理
+
+* [3.1 内存管理概念](di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian.md)
+
