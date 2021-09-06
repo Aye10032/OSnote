@@ -21,4 +21,5 @@
 
 * [3.1 内存管理概念](di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian.md)
 * [3.1 分页存储相关概念](di-san-zhang-nei-cun-guan-li/3.1-fen-ye-cun-chu-xiang-guan-gai-nian.md)
+* [3.2 虚拟内存技术](di-san-zhang-nei-cun-guan-li/3.2-xu-ni-nei-cun-ji-shu.md)
 
