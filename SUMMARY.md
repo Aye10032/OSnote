@@ -23,3 +23,8 @@
 * [3.1 分页存储相关概念](di-san-zhang-nei-cun-guan-li/3.1-fen-ye-cun-chu-xiang-guan-gai-nian.md)
 * [3.2 虚拟内存技术](di-san-zhang-nei-cun-guan-li/3.2-xu-ni-nei-cun-ji-shu.md)
 
+## 第四章 文件管理
+
+* [4.1 文件系统基础](di-si-zhang-wen-jian-guan-li/4.1-wen-jian-xi-tong-ji-chu.md)
+* [4.2 文件的系统实现](di-si-zhang-wen-jian-guan-li/4.2-wen-jian-de-xi-tong-shi-xian.md)
+
