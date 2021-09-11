@@ -27,4 +27,5 @@
 
 * [4.1 文件系统基础](di-si-zhang-wen-jian-guan-li/4.1-wen-jian-xi-tong-ji-chu.md)
 * [4.2 文件的系统实现](di-si-zhang-wen-jian-guan-li/4.2-wen-jian-de-xi-tong-shi-xian.md)
+* [4.3 磁盘的组织与管理](di-si-zhang-wen-jian-guan-li/4.3-ci-pan-de-zu-zhi-yu-guan-li.md)
 
