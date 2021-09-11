@@ -29,3 +29,7 @@
 * [4.2 文件的系统实现](di-si-zhang-wen-jian-guan-li/4.2-wen-jian-de-xi-tong-shi-xian.md)
 * [4.3 磁盘的组织与管理](di-si-zhang-wen-jian-guan-li/4.3-ci-pan-de-zu-zhi-yu-guan-li.md)
 
+## 第五章 输入输出（I/O）管理
+
+* [5.1 I/O管理概述](di-wu-zhang-shu-ru-shu-chu-io-guan-li/5.1-io-guan-li-gai-shu.md)
+
