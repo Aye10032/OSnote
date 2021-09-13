@@ -32,4 +32,5 @@
 ## 第五章 输入输出（I/O）管理
 
 * [5.1 I/O管理概述](di-wu-zhang-shu-ru-shu-chu-io-guan-li/5.1-io-guan-li-gai-shu.md)
+* [5.2 I/O核心子系统](di-wu-zhang-shu-ru-shu-chu-io-guan-li/5.2-io-he-xin-zi-xi-tong.md)
 
