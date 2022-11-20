@@ -2,7 +2,7 @@
 
 * [408操作系统考察范围](README.md)
 
-## 第一章 概述 <a id="gai-shu"></a>
+## 第一章 概述 <a href="#gai-shu" id="gai-shu"></a>
 
 * [1.1 操作系统的基本概念](gai-shu/untitled.md)
 * [1.2 操作系统的发展与分类](gai-shu/1.2-cao-zuo-xi-tong-de-fa-zhan-yu-fen-lei.md)
@@ -34,3 +34,6 @@
 * [5.1 I/O管理概述](di-wu-zhang-shu-ru-shu-chu-io-guan-li/5.1-io-guan-li-gai-shu.md)
 * [5.2 I/O核心子系统](di-wu-zhang-shu-ru-shu-chu-io-guan-li/5.2-io-he-xin-zi-xi-tong.md)
 
+## 附录
+
+* [A.1 调度算法一览](fu-lu/a.1-tiao-du-suan-fa-yi-lan.md)
