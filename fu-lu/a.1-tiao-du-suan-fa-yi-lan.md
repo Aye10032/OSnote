@@ -1,6 +1,6 @@
 # A.1 调度算法一览
 
-## [一、进程调度](../di-er-zhang-jin-cheng-guan-li/2.2-chu-li-ji-tiao-du#2.2.4-dian-xing-de-tiao-du-suan-fa)
+## [一、进程调度](https://aye10032.gitbook.io/os/di-er-zhang-jin-cheng-guan-li/2.2-chu-li-ji-tiao-du#2.2.4-dian-xing-de-tiao-du-suan-fa)
 
 - **先来先服务**（FCFS）
 - **短作业优先**（SJF）
@@ -12,11 +12,11 @@
 
 
 
-## [二、内存连续分配](../di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian#3.1.3-lian-xu-fen-pei-guan-li-fang-shi)
+## [二、内存连续分配](https://aye10032.gitbook.io/os/di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian#3.1.3-lian-xu-fen-pei-guan-li-fang-shi)
 
 - **单一连续分配**：只有用户区合系统区，只有一个用户进程
 - **固定分区分配**：用户区分成固定大小，每个区一个进程
-- [**动态分区分配**](../di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian#4-dong-tai-fen-qu-fen-pei-suan-fa)
+- [**动态分区分配**](https://aye10032.gitbook.io/os/di-san-zhang-nei-cun-guan-li/3.1-nei-cun-guan-li-gai-nian#4-dong-tai-fen-qu-fen-pei-suan-fa)
   - **首次适应**
     - 以地址递增存储
     - 找到的第一个能用的
@@ -44,7 +44,7 @@
 
 
 
-## [四、页面置换算法](../di-san-zhang-nei-cun-guan-li/3.2-xu-ni-nei-cun-ji-shu#3.2.3-ye-mian-zhi-huan-suan-fa)
+## [四、页面置换算法](https://aye10032.gitbook.io/os/di-san-zhang-nei-cun-guan-li/3.2-xu-ni-nei-cun-ji-shu#3.2.3-ye-mian-zhi-huan-suan-fa)
 
 - **最佳置换（OPT）**：淘汰以后用不使用的，实际无法实现
 - **先进先出（FIFO）**
@@ -63,7 +63,7 @@
 
 
 
-## [五、磁盘调度算法](../di-si-zhang-wen-jian-guan-li/4.3-ci-pan-de-zu-zhi-yu-guan-li#4.3.2-ci-pan-tiao-du-suan-fa)
+## [五、磁盘调度算法](https://aye10032.gitbook.io/os/di-si-zhang-wen-jian-guan-li/4.3-ci-pan-de-zu-zhi-yu-guan-li#4.3.2-ci-pan-tiao-du-suan-fa)
 
 - **先来先服务**
 - **最短寻找时间优先**
